@@ -1,0 +1,34 @@
+[
+  {
+    "nome": "Sistemi Mobili",
+    "docente": " Di Nardo",
+    "cfu ": 6,
+    "annoInsegnamento": 3,
+    "descrizioneBreve": "Descrizione",
+    "superato": true
+  },
+  {
+    "nome": "Programmazione Web",
+    "docente": "Fioravanti",
+    "cfu ": 6,
+    "annoInsegnamento": 2,
+    "descrizioneBreve": "Descrizione",
+    "superato": false
+  },
+  {
+    "nome": "Reti di calcolatori",
+    "docente": "scozzari",
+    "cfu ": 6,
+    "annoInsegnamento": 3,
+    "descrizioneBreve": "Descrizione",
+    "superato": true
+  },
+  {
+    "nome": "Ragioneria",
+    "docente": "Rea",
+    "cfu ": 9,
+    "annoInsegnamento": 3,
+    "descrizioneBreve": "Descrizione",
+    "superato": true
+  }
+]
